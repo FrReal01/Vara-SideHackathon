@@ -1,0 +1,8 @@
+/* styles.css */
+.date-picker-input {
+    margin: 10px; /* Adjust the margin as needed */
+    border: 1px solid black; /* Black border */
+    border-radius: 4px; /* Optional: rounded corners */
+    /*padding: 8px; /* Optional: padding inside the input */
+    /*width: 100%; /* Optional: full width */
+  }
